@@ -1,0 +1,58 @@
+# INNA – Caliente
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.75] Caliente es tu amor, caliente es tu amor
+[00:04.36] Yo quiero soñar contigo mi amor
+[00:08.02] Caliente es tu amor, caliente es tu amor
+[00:11.75] Yo quiero soñar contigo mi amor
+[00:27.25] 
+[00:15.23] Necesito más, de lo que me das
+[00:19.32] Ya no tengo miedo y dejo todo atrás
+[00:23.04] Quiero soñar, ritmo sensual
+[00:26.40] Un segundo más de vida, puede ser tan real
+[00:47.40] 
+[00:30.60] I wanna make, make, make, make you feel
+[00:33.01] Make, make, make, make you dance
+[00:35.12] Make, make, make, make you feel
+[00:36.93] Make, make, make, make you dance
+[00:38.79] Make, make, make, make you feel
+[00:40.68] Make, make, make, make you dance
+[00:42.47] Make, make, make, make you feel
+[00:44.25] Make, make, make, make you dance
+[01:00.25] 
+[00:46.80] Caliente es tu amor, caliente es tu amor
+[00:50.53] Yo quiero soñar contigo mi amor
+[00:54.24] Caliente es tu amor, caliente es tu amor
+[00:57.86] Yo quiero soñar contigo mi amor
+[01:13.36] 
+[01:23.69] Necesito más, de lo que me das
+[01:27.68] Ya no tengo miedo y dejo todo atrás
+[01:31.30] Quiero soñar, ritmo sensual
+[01:34.89] Un segundo más de vida, puede ser tan real
+[01:55.89] 
+[01:39.06] I wanna make, make, make, make you feel
+[01:41.34] Make, make, make, make you dance
+[01:43.39] Make, make, make, make you feel
+[01:45.29] Make, make, make, make you dance
+[01:47.03] Make, make, make, make you feel
+[01:48.80] Make, make, make, make you dance
+[01:50.76] Make, make, make, make you feel
+[01:52.59] Make, make, make, make you dance
+[02:08.59] 
+[01:55.17] Caliente es tu amor, caliente es tu amor
+[01:58.79] Yo quiero soñar contigo mi amor
+[02:02.44] Caliente es tu amor, caliente es tu amor
+[02:06.10] Yo quiero soñar contigo mi amor
+[02:21.60] 
+[02:24.71] Caliente es tu amor, caliente es tu amor
+[02:28.39] Yo quiero soñar contigo mi amor
+[02:32.01] Caliente es tu amor, caliente es tu amor
+[02:35.63] Yo quiero soñar contigo mi amor
+[02:51.13] 
+[02:46.80] Caliente es tu amor, caliente es tu amor
+[02:50.43] Yo quiero soñar contigo mi amor
+[02:54.15] Caliente es tu amor, caliente es tu amor
+[02:57.80] Yo quiero soñar contigo mi amor
+```
