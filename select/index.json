@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Caliente",
+  "base_artist": "INNA",
+  "createdAt": "2026-02-20T22:34:18.436223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Caliente Café",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/01_Caliente_Café_Virus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "T.V. Caliente",
+      "artist": "Sumo",
+      "has_synced": false,
+      "path": "select/02_T.V._Caliente_Sumo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "El de Tierra Caliente - En Vivo",
+      "artist": "Grupo Firme",
+      "has_synced": true,
+      "path": "select/03_El_de_Tierra_Caliente_-_En_Vivo_Grupo_Firme.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sangre Caliente",
+      "artist": "Vicente Fernández",
+      "has_synced": true,
+      "path": "select/04_Sangre_Caliente_Vicente_Fernández.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Caliente Caliente",
+      "artist": "Raza Obrera",
+      "has_synced": false,
+      "path": "select/05_Caliente_Caliente_Raza_Obrera.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cumbia Caliente",
+      "artist": "Fievre Looka feat. Fito Olivares",
+      "has_synced": false,
+      "path": "select/06_Cumbia_Caliente_Fievre_Looka_feat._Fito_Olivares.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dale Caliente",
+      "artist": "Daddy Yankee",
+      "has_synced": true,
+      "path": "select/07_Dale_Caliente_Daddy_Yankee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dale Caliente",
+      "artist": "Daddy Yankee",
+      "has_synced": true,
+      "path": "select/08_Dale_Caliente_Daddy_Yankee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ande Yo Caliente",
+      "artist": "Azúcar Moreno",
+      "has_synced": true,
+      "path": "select/09_Ande_Yo_Caliente_Azúcar_Moreno.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Caliente Kuduro",
+      "artist": "Collectif Métissé",
+      "has_synced": true,
+      "path": "select/10_Caliente_Kuduro_Collectif_Métissé.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Caliente Kuduro",
+      "artist": "Collectif Metissé",
+      "has_synced": true,
+      "path": "select/11_Caliente_Kuduro_Collectif_Metissé.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "El Ritmo Caliente",
+      "artist": "Belle Perez",
+      "has_synced": false,
+      "path": "select/12_El_Ritmo_Caliente_Belle_Perez.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Noreste Caliente",
+      "artist": "A Band of Bitches",
+      "has_synced": true,
+      "path": "select/13_Noreste_Caliente_A_Band_of_Bitches.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Caliente",
+      "artist": "Inna",
+      "has_synced": true,
+      "path": "select/14_Caliente_Inna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Caliente",
+      "artist": "Jay Santos",
+      "has_synced": true,
+      "path": "select/15_Caliente_Jay_Santos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Caliente",
+      "artist": "Inna",
+      "has_synced": false,
+      "path": "select/pl_01_Caliente_Inna.txt"
+    }
+  ]
+}
